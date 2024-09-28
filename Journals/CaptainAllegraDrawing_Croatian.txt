@@ -1,0 +1,8 @@
+Kapetanica Allegra
+i
+Prva Pomoćnica
+
+<-Tvoj kostim
+Moj kostim ->
+
+-L
